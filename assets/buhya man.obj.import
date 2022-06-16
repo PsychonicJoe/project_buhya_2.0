@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/buhya man.obj-fa66d16d644a1ef6299966759d49bbbe.mesh"
+
+[deps]
+
+files=[ "res://.import/buhya man.obj-fa66d16d644a1ef6299966759d49bbbe.mesh" ]
+
+source_file="res://assets/buhya man.obj"
+dest_files=[ "res://.import/buhya man.obj-fa66d16d644a1ef6299966759d49bbbe.mesh", "res://.import/buhya man.obj-fa66d16d644a1ef6299966759d49bbbe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
